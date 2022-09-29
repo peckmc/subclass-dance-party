@@ -20,11 +20,12 @@ body, a:link, a:visited, a:active{
 .title{
   background-color: #777;
 }
-
 .dancer{
-  position:absolute;
-  height: 50px;
-  width: 50px;
-  background-image: url('twerk.gif');
+  position: absolute;
+
 }
 
+img{
+  height: 100px;
+  width: auto;
+}
